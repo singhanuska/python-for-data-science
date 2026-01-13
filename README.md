@@ -1,4 +1,11 @@
 # Python for Data Science
+# Hi there 👋, I'm Anuska
+
+Aspiring Data Scientist | Python | Machine Learning | Data Analysis
+
+📈 **Skills:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly  
+📂 **Projects:** Titanic Survival, Customer Segmentation, Sentiment Analysis  
+📫 **Contact:** singhanuskadehri@gmail.com | [LinkedIn](www.linkedin.com/in/anushka-30042b164)
 
 ## Overview
 This repository contains Python fundamentals required for Data Science, with hands-on examples and practice notebooks.
@@ -12,6 +19,7 @@ This repository contains Python fundamentals required for Data Science, with han
 - Lists, Tuples, Dictionaries
 - File Handling
 - Exception Handling
+
 
 ## Tools Used
 - Python
